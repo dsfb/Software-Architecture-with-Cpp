@@ -1,5 +1,6 @@
 .idea/
 *build*/
+.direnv/
 gcm.cache/
 .vscode/
 CMakeLists.txt.user
